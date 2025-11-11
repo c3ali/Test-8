@@ -1,0 +1,14 @@
+{
+  "name": "application-de-gestion-de-projet-visuelle-en-mode-kanban-permettant-aux-\u00e9quipes-d'organiser-des-t\u00e2ches-sous-forme-de-cartes-glissables-dans-des-colonnes-personnalisables",
+  "version": "1.0.0",
+  "description": "Application de gestion de projet visuelle en mode Kanban permettant aux \u00e9quipes d'organiser des t\u00e2ches sous forme de cartes glissables dans des colonnes personnalisables",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
